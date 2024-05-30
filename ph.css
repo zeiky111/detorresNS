@@ -53,19 +53,19 @@ ul.nobullet li a:hover{
 h2{
    text-align:left;
 }
-span.color1{
-   color: aqua;
+span.coffee1{
+   color: black;
    font-family: 'Times New Roman', Times, serif;
    margin-right: 300px;
 }
-span.color2{
+span.coffee2{
    color: rgb(254, 251, 251);
    background-color:black ;
    font-family: 'Times New Roman', Times, serif;
    margin-right: 250px;
 }
-span.color3{
-   color:  orangered;
+span.coffee3{
+   color:  black;
    font-family: 'Times New Roman', Times, serif;
    margin-right: 300px;
 }
