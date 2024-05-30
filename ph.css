@@ -52,7 +52,13 @@ ul.nobullet li a:hover{
 }
 h2{
    text-align:left;
-}
+img{
+   width: 150px;
+   height: 150px;   
+   display: inline-block;
+   max-width: 200px;
+   margin-right: 170px;
+   }
 span.coffee1{
    color: black;
    font-family: 'Times New Roman', Times, serif;
@@ -68,3 +74,4 @@ span.coffee3{
    font-family: 'Times New Roman', Times, serif;
    margin-right: 300px;
 }
+
