@@ -50,3 +50,22 @@ ul.nobullet li a:hover{
    font-family:'Times new Roman';
    text-align: center ;
 }
+h2{
+   text-align:left;
+}
+span.color1{
+   color: aqua;
+   font-family: 'Times New Roman', Times, serif;
+   margin-right: 300px;
+}
+span.color2{
+   color: rgb(254, 251, 251);
+   background-color:black ;
+   font-family: 'Times New Roman', Times, serif;
+   margin-right: 250px;
+}
+span.color3{
+   color:  orangered;
+   font-family: 'Times New Roman', Times, serif;
+   margin-right: 300px;
+}
